@@ -1,1 +1,1 @@
-# windows
+.ahk - AutoHotKey
